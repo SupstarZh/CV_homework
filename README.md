@@ -1,5 +1,5 @@
 ## ZJU compute vision course homework
-[第一次计算机视觉作业——制作无声小短片视频](#CVhomework_1)
+[第一次计算机视觉作业——制作无声小短片视频](#https://github.com/SupstarZh/CV_homework/tree/main/CVhomework_1)
   
 ##### OpenCV实现以下功能
 1. 编程生成一个满足以下要求的新视频：生成的视频，程序运行结束后会自动保存在一个制定文件名的视频文件中；
@@ -11,7 +11,7 @@
 7. 有一定故事情节，自由设计
 8. 按一下空格会暂停视频，再按下继续。
 
-[第二次计算机视觉作业——Harris Corner Detection](#CVhomework_2)
+[第二次计算机视觉作业——Harris Corner Detection](#https://github.com/SupstarZh/CV_homework/tree/main/CVhomework_2)
 
 ##### 读入摄像头，回放视频。按下空格键则暂停回放，并将当前帧图像做一次Harris Corner检测，并将检测结果叠加在原来图像上。
 1. 需要自己实现Harris Corner检测算法。
