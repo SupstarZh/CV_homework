@@ -10,7 +10,8 @@
 6. 编程实现所有镜头切换效果；
 7. 有一定故事情节，自由设计
 8. 按一下空格会暂停视频，再按下继续。
-- [第二次计算机视觉作业——Harris Corner Detection](#CVhomework_2)
+
+[第二次计算机视觉作业——Harris Corner Detection](#CVhomework_2)
 
 ##### 读入摄像头，回放视频。按下空格键则暂停回放，并将当前帧图像做一次Harris Corner检测，并将检测结果叠加在原来图像上。
 1. 需要自己实现Harris Corner检测算法。
